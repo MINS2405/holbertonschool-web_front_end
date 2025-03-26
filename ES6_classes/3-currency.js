@@ -1,3 +1,5 @@
+import Currency from './3-currency.js';
+
 /**
  * Represents a currency with code and name.
  */

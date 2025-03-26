@@ -1,3 +1,5 @@
+import HolbertonClass from './8-hbtn_class';
+
 /**
  * Represents a HolbertonClass with size and location.
  */

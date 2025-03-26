@@ -1,3 +1,5 @@
+import Airport from './7-airport.js';
+
 /**
  * Represents an airport with name and code.
  */

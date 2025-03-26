@@ -1,3 +1,5 @@
+import HolbertonCourse from './2-hbtn_course.js';
+
 /**
  * Represents a course with name, length, and students.
  */

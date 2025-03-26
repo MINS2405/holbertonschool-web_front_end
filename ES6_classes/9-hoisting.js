@@ -1,3 +1,5 @@
+import { HolbertonClass, StudentHolberton } from './8-hbtn_class.js';
+
 /**
  * Represents a HolbertonClass with year and location.
  */

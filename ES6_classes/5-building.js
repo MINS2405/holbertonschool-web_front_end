@@ -1,3 +1,5 @@
+import Building from './5-building';
+
 /**
  * Represents a building with square footage.
  * This class is intended to be abstract and should not be instantiated directly.
