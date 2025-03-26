@@ -1,5 +1,7 @@
 import { createEmployeesObject } from './11-createEmployeesObject';
 
+console.log(createEmployeesObject("Software", [ "Bob", "Sylvie" ]));
+// Output : { Software: [ 'Bob', 'Sylvie' ] }
 /**
  * Crée un objet contenant un département et une liste d'employés.
  *
